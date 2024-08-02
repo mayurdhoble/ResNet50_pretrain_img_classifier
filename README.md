@@ -1,4 +1,4 @@
-###ResNet50 Image Classification with Streamlit and TensorFlow/Keras###
+# ResNet50 Image Classification with Streamlit and TensorFlow/Keras
 
 This project demonstrates an image classification application using a pre-trained ResNet50 model, built with Streamlit for the frontend and TensorFlow/Keras for the backend.
 
